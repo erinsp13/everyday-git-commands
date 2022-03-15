@@ -1,0 +1,12 @@
+
+body{
+	background-color:#f4f4f4;
+	color:#555555;
+}
+.block{
+	float:left;
+    width:33.3%;
+	border:1px solid #ccc;
+	padding:10px;
+	box-sizing:border-box;
+}
