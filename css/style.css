@@ -3,16 +3,19 @@ body{
 	color: black;
 	font-family: Arial, Helvetica, sans-serif;
 	margin-top: 0%;
+	
 }
 #main-header{
 	background-color: #aec49b;
 	height: 80px;
 	padding:10px ;
+	border-radius: 10px;
 }
 #showcase{
 	background-image:url('../images/showcase.jpg');
 	background-position:center right;
 	padding: 30px;
+	border-radius: 10px;
 }
 .block{
 	float:left;
@@ -20,16 +23,19 @@ body{
 	border:1px solid #000000;
 	padding:10px;
 	box-sizing:border-box;
+	border-radius: 10px;
 
 }
 .block h2{
 	text-align: center;
 	text-decoration: underline;
+	border-radius: 10px;
 
 }
 h1{
 	text-align: center;
 	text-decoration:underline ;
+	
 }
 #command{
 	width: 20%;
